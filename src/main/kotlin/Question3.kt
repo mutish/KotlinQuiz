@@ -8,6 +8,7 @@ fun main(){
     val str1 = "tacocat"
     val str2 = "civic"
     val str3 = "key"
+
     val isPalindrome1 = isPalindrome(str1)
     val isPalindrome2 = isPalindrome(str2)
     val isPalindrome3 = isPalindrome(str3)
